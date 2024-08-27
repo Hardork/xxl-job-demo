@@ -17,5 +17,7 @@ public class SimpleXxlJob {
         System.out.println("执行定时任务，执行时间:" + new Date());
     }
 
+    public void test(){}
+
 
 }
