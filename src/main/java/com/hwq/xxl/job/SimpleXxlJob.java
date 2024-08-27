@@ -19,5 +19,7 @@ public class SimpleXxlJob {
 
     public void test(){}
 
+    public void hello(){}
+
 
 }
